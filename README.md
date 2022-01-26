@@ -1,12 +1,10 @@
-# Getting Started with Create React App
+# Front-End React GitHub API
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is forked from https://github.com/benits/github-api-interface.
 
 ## About project
 
-This repository was created in order to show how we can create a frontend application with reusable components.
-
-We will create an application using the github public api.
+This repository implements and develop unit tests.
 
 ### Features
 
